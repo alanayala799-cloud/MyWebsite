@@ -14,7 +14,7 @@ header {
 
 .portrait {
   width: 90px;
-  height: 90px;
+  height: auto;
   border-radius: 50%;
   display: block;
   margin: 20px auto;
@@ -47,5 +47,6 @@ th {
   background-color: #d9e3f0;
   font-weight: bold;
 }
+
 
 
